@@ -22,6 +22,6 @@ Part 2
 5.  True
 6.  True
 7.  True
-8.  True
+8.  False
 9.  False
 10. True
